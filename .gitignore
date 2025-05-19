@@ -8,7 +8,11 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+
+# API
 build
+.gradle
+
 
 # Native
 *.orig.*
